@@ -3,9 +3,8 @@ html{
 }
 
 @font-face {
-  font-family: 'minecraftbold';
-  src: url('fonts/minecraftbold-nmk1-webfont.woff2') format('woff2'),
-       url('fonts/minecraftbold-nmk1-webfont.woff') format('woff');
+  font-family: 'vcr_font';
+  src: url('fonts/vcr_osd_mono.ttf') format('ttf'),
   font-weight: normal;
   font-style: normal;
 
