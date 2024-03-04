@@ -4,7 +4,7 @@ html{
 
 @font-face {
   font-family: 'vcr_font';
-  src: url('fonts/vcr_osd_mono.ttf') format('ttf'),
+  src: url('fonts/vcr_osd_mono.ttf') format('truetype'),
   font-weight: normal;
   font-style: normal;
 
