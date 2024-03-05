@@ -61,6 +61,13 @@ img{
   border-radius:500px;
 }
 
+.dabodytext{
+  color:#959595;
+  text-shadow: 1px 1px #000000;
+  font-family: "minecraftbold";
+  src:url("fonts/MINECRAFTBOLD-NMK1.OTF") format("truetype");
+}
+
 hr{
   border-width: 1;
 }
