@@ -3,8 +3,9 @@ html{
 }
 
 @font-face {
-  font-family: 'vcr_font';
-  src: url('fonts/vcr_osd_mono.ttf') format('truetype'),
+  font-family: 'minecraftbold';
+  src: url('fonts/minecraftbold-nmk1-webfont.woff2') format('woff2'),
+       url('fonts/minecraftbold-nmk1-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
@@ -27,7 +28,7 @@ html{
 
 }
 @font-face {
-  font-family: 'vcr_font';
+  font-family: 'minecraftregular';
   src: url('fonts/minecraftregular-bmg3-webfont.woff2') format('woff2'),
        url('fonts/minecraftregular-bmg3-webfont.woff') format('woff');
   font-weight: normal;
@@ -43,16 +44,16 @@ html{
 }
 
 body {
-  font-family: "vcr_font";
-  src:url("fonts/VCR_OSD_MONO.ttf") format("truetype");
-  background-color: #7E7E7E;
-  color: #FFFFFF;
+  font-family: "minecraftregular";
+  src:url("fonts/MINECRAFTREGULAR-NMK1.OTF") format("truetype");
+  background-color: #181818;
+  color:white;
 }
 
 .mcbold{
-  color: #7E7E7E;
+  color:#371F76;
   text-shadow: 3px 3px #000000;
-  font-family: "vcr_font";
+  font-family: "minecraftbold";
   src:url("fonts/MINECRAFTBOLD-NMK1.OTF") format("truetype");
 }
 
