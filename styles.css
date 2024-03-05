@@ -56,13 +56,6 @@ body {
   font-family: "minecraftbold";
   src:url("fonts/MINECRAFTBOLD-NMK1.OTF") format("truetype");
 }
-{
-
-.mcbust{
-  color:#8c8c8c;
-  text-shadow: 1px 1px #000000;
-  font-family: "minecraftbold";
-  src:url("fonts/MINECRAFTBOLD-NMK1.OTF") format("truetype");
 }
 
 img{
