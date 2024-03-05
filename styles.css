@@ -45,12 +45,12 @@ html{
 body {
   font-family: "vcr_font";
   src:url("fonts/VCR_OSD_MONO.ttf") format("truetype");
-  background-color: 7E7E7E;
-  color:FFFFFF;
+  background-color: #7E7E7E;
+  color: #FFFFFF;
 }
 
 .mcbold{
-  color:#7E7E7E;
+  color: #7E7E7E;
   text-shadow: 3px 3px #000000;
   font-family: "vcr_font";
   src:url("fonts/MINECRAFTBOLD-NMK1.OTF") format("truetype");
