@@ -62,7 +62,7 @@ img{
 }
 
 hr{
-  border-width: 10;
+  border-width: 1;
 }
 
 .blur {
@@ -82,5 +82,5 @@ hr{
   transition: background-color 0.3s;
 }
 .button:hover {
-  background-color: #3F00A1;
+  background-color: #282828;
 }
