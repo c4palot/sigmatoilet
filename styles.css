@@ -45,8 +45,8 @@ html{
 body {
   font-family: "vcr_font";
   src:url("fonts/VCR_OSD_MONO.ttf") format("truetype");
-  background-color: #7E7E7E;
-  color:7E7E7E;
+  background-color: 7E7E7E;
+  color:FFFFFF;
 }
 
 .mcbold{
