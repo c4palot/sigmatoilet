@@ -51,7 +51,7 @@ body {
 }
 
 .mcbold{
-  color:#a6a6a6;
+  color:#595959;
   text-shadow: 3px 3px #000000;
   font-family: "minecraftbold";
   src:url("fonts/MINECRAFTBOLD-NMK1.OTF") format("truetype");
