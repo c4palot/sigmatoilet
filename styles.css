@@ -1,5 +1,5 @@
 html{
-  zoom:250%;
+  zoom:200%;
 }
 
 @font-face {
@@ -66,6 +66,13 @@ body {
 
 img{
   border-radius:500px;
+}
+
+.skibidi{
+  color:#007ECB;
+  text-shadow: 1px 1px #000000;
+  font-family: "minecraftbold";
+  src:url("fonts/MINECRAFTBOLD-NMK1.OTF") format("truetype");
 }
 
 .dabodytext{
