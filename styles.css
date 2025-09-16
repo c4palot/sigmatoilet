@@ -58,7 +58,7 @@ body {
 }
 
 .buttontext{
-  color:#575149;
+  color:#FF4233;
   text-shadow: 2px 2px #000000;
   font-family: "minecraftbold";
   src:url("fonts/MINECRAFTBOLD-NMK1.OTF") format("truetype");
@@ -76,7 +76,7 @@ img{
 }
 
 .dabodytext{
-  color:#353535;
+  color:#D94136;
   text-shadow: 1px 1px #000000;
   font-family: "minecraftbold";
   src:url("fonts/MINECRAFTBOLD-NMK1.OTF") format("truetype");
